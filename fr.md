@@ -85,8 +85,9 @@ going over examples, explorations of the semantic possibilities, and interaction
 
 
 ## how to read this grammar
-- Throughout this document, I will use
+- Tout au long de ce document, j'utiliserai
   - single capital letters (e.g. `X`) to represent any valid toki pona [*content word*](https://github.com/kilipan/nasin-toki#content-words) or [*phrase*](https://github.com/kilipan/nasin-toki#phrases)
+  - lettres majuscules simples (par exemple `X`) pour représenter tout [*content word*](https://github.com/kilipan/nasin-toki#content-words) ou [*phrase*](https://github.com/kilipan/nasin-toki#phrases)
   - `<prep>` to refer to any of the [*prepositions*](https://github.com/kilipan/nasin-toki#prepositions)
   - `<preverb>` to refer to any of the [*preverbs*](https://github.com/kilipan/nasin-toki#preverbs)
 - Code-blocks contain valid toki pona (when replacing the above-mentioned abbreviations with real words).
